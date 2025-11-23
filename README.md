@@ -1,4 +1,5 @@
-Author:Nizam Uddina, S.M. Abir Hasana, Md. Mahmood Ul Quaium
+Author:Nizam Uddina, S.M. Abir Hasana, Md. Mahmood Ul Quaium.
+
 In this study, for uni-modal models three modalities speech,
 image, and text were utilized to perform emotion recognition
 using diverse datasets.
